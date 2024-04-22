@@ -48,7 +48,7 @@ To get started with the project, follow these steps:
 
 ### Clone the Repository:
 
-> #### `git clone `
+> #### `git clone ` https://github.com/henok-projects/Frontend-Exercise.git
 >
 > #### `cd fronted-exercise`
 
