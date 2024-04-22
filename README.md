@@ -38,9 +38,7 @@ Before you begin, ensure you have the following installed:
 
 - npm or Yarn (package managers)
 
-- Expo CLI
-
-### `npm install -g expo-cli`
+- Expo CLI `npm install -g expo-cli`
 
 ## Installation
 
